@@ -39,8 +39,8 @@ Passionate about building scalable digital solutions and exploring the intersect
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anatolguidea&show_icons=true&theme=tokyonight&count_private=true" alt="Anatolie's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatolguidea&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anatolguidea&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Anatolie's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anatolguidea&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
