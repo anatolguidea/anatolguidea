@@ -56,7 +56,7 @@ Passionate about building scalable digital solutions and exploring the intersect
 
 * **Email:** [guidea.anatol@gmail.com](mailto:guidea.anatol@gmail.com)
 * **LinkedIn:** [linkedin.com/in/anatolguidea](https://linkedin.com/in/anatolguidea)
-* **Portfolio:** [zcode.md](https://zcode.md) *(sau link-ul tău personal)*
+* **Portfolio:** [zcode](https://zcodesite.vercel.app) 
 
 ---
 
