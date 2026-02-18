@@ -26,21 +26,28 @@ Passionate about building scalable digital solutions and exploring the intersect
 
 ### 🛠️ Technical Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Flutter |
-| **Backend** | Java (Spring Boot), Node.js, Supabase |
-| **Databases** | PostgreSQL, MongoDB, Redis |
-| **AI & IoT** | Ollama, OpenAI SDK, ESP32 (C++/Arduino), MQTT, UART |
-| **DevOps** | Docker, Git, GitHub Actions |
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Tools & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black)
 
 ---
 
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anatolguidea&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Anatolie's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anatolguidea&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anatolguidea&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anatolie's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anatolguidea&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
